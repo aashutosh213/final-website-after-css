@@ -41,10 +41,15 @@ h1{
 
 h2{
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.25rem;
+  font-size: 2.5rem;
   margin-top: 0;
   color:#66bfbf;
   font-weight: normal;
+  padding:10px;
+}
+
+.work{
+	font-size:1.25rem;
 }
 
 .skill-row{
