@@ -52,6 +52,19 @@ h2{
 	font-size:1.25rem;
 }
 
+.intro{
+  width:30%;
+  margin : auto;
+}
+
+p{
+  line-height: 2;
+}
+
+.middle-container{
+padding: 30px;
+}
+
 .skill-row{
   width:50%;
   margin :100px auto;
@@ -92,9 +105,13 @@ h3{
   margin-right: 30px;
 }
 
-.footer-link{
+a{
   color:#11999e;
   padding:10px 20px;
+	font-family:"Montserrat", san-serif;
+}
+a:hover{
+color:#eaf6f6;
 }
 
 hr{
